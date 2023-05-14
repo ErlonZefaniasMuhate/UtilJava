@@ -137,4 +137,11 @@ public class Validate {
         }
     }
 
+    public static boolean optionIsValid(int min, int max, int option) {
+        if (isInteger(String.valueOf(min)) && isInteger(String.valueOf(max)) && isInteger(String.valueOf(option)) && option >= min && option <= max) {
+            return true;
+        }
+        return false;
+    }
+
 }
