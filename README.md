@@ -5,7 +5,7 @@
 Desenvolvendo um conjunto de funções utilitárias para serem usadas em programas Java.
 
 ## Classes implementadas 
-Ate ao momento funções foram implementadas em quatro classes distintas: **Validate**, **Generate**, **Email**, **Conversor**, **Historico** e **Pessoa**.
+Ate ao momento funções foram implementadas em cinco classes distintas: **Validate**, **Generate**, **Email**, **Conversor**, **Historico** e **Pessoa**.
 
 ## Classe *Validate* 
 Responsável por validar vários tipos de dados, incluindo nomes, inteiros, doubles, datas e emails. Isso permitirá que o programador verifique facilmente se as entradas fornecidas pelo usuário estão no formato correto antes de processá-las em seus programas.
